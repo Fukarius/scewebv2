@@ -91,6 +91,7 @@
 		<p>
 			
 			Esta aplicação é utilizada para fins didaticos na disciplina Teste de Software (versão DB MySQL remoto).
+			Fucas was here!
 			
 		</p>
 		
